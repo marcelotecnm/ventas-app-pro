@@ -7,13 +7,13 @@ import {
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyCVRXFJZSeC-wzIwqqN8xPc828i9LavaMo",
-    authDomain: "ventas-app-pro-c5bb0.firebaseapp.com",
-    projectId: "ventas-app-pro-c5bb0",
-    storageBucket: "ventas-app-pro-c5bb0.firebasestorage.app",
-    messagingSenderId: "446489860713",
-    appId: "1:446489860713:web:5166ef041fec81481420f8"
-  };
+  apiKey: "AIzaSyC7mK4MITifHHyaPGA1nAPhMAO9-15rOsE",
+  authDomain: "ventas-app-pro-a9301.firebaseapp.com",
+  projectId: "ventas-app-pro-a9301",
+  storageBucket: "ventas-app-pro-a9301.firebasestorage.app",
+  messagingSenderId: "482441859104",
+  appId: "1:482441859104:web:1a6ef3012f20ed0f996c45"
+};
 
 
 const app = initializeApp(firebaseConfig);
